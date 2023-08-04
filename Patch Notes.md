@@ -1,3 +1,8 @@
+## 1.3.0
+* UI Overhaul
+  * Proper dark mode, borders to imitate evemarketer as much as possible
+  * Taking out the scrollbar for now because it's a nightmare to work with
+
 ## 1.2.0
 * Error handling for empty cells
 * Improved look of main tab to more closely match in-game regional market
