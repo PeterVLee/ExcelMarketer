@@ -1,3 +1,10 @@
+## 1.2.0
+* Error handling for empty cells
+* Improved look of main tab to more closely match in-game regional market
+  * Search cell now has placeholder text to make it more intuitive
+  * Replaced text with Roboto, same one used in EVEMarketer
+  * Broke the scroll because I had to adjust the offset sizes. Planning on fixing this with the active-x scroll bar which will let me set the max to # of orders
+
 ## 1.1.0
 
 * Fixed the region for dodixie in formatting tab
