@@ -1,5 +1,10 @@
-## 1.1.2
-* Attempting an automatic csv import macro
+## 1.2.0
+* Big CSV importing improvement! No more manually fiddling around with csv copy and pasting!
+  * Imports CSV files relative to the current sheet's path
+  * Added a button to automatically refresh the SDE, works as long as the user has invTypes.csv in the same folder as the sheet
+  * Updated instruction tab to reflect this change
+* Fixed skills to allow level 0
+* Minor formatting changes
 
 ## 1.1.1
 * Fixed data validation for Accounting skill dropdown
