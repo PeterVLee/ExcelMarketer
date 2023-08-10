@@ -1,3 +1,14 @@
+## 1.1.2
+* Attempting an automatic csv import macro
+
+## 1.1.1
+* Fixed data validation for Accounting skill dropdown
+* Added note to search cell for better hint
+* Experimenting with locked sheets to make it harder for the user to break stuff. It's not password locked though so people can experiment if they want
+* Temporary section for custom, simulated margin stats box. Math is bad but it gets the job done for now. Might steal UI ideas from other websites that do it better
+* Added volume stat. Brightened editable cells to make it more obvious
+* Changed standing coloring and number format
+
 ## 1.1.0
 * UI Overhaul
   * Proper dark mode, borders to imitate evemarketer as much as possible
@@ -11,7 +22,6 @@
   * Broke the scroll because I had to adjust the offset sizes. Planning on fixing this with the active-x scroll bar which will let me set the max to # of orders
 
 ## 1.0.1
-
 * Fixed the region for dodixie in formatting tab
 * Expanded size of offset cells to show 15 orders in the view instead of 10
 * Notes to named ranges
