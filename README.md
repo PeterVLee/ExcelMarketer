@@ -13,7 +13,7 @@ Uses data from [Steve Ronuken's](https://github.com/fuzzysteve) [fuzzwork SDE du
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/28315326/278857017-df4b9e1f-f2b6-4c9a-bf01-42458f755942.png)
 
-As it stands, until invTypes.csv's format changes or CCP pulls the plug on the Excel plugin, this spreadsheet should work for a good while as long as you follow the instructions tab on updating the item list.
+As it stands, until the SDE format changes or CCP pulls the plug on the Excel plugin, this spreadsheet should work for a good while as long as you follow the instructions tab on updating the item list.
 
 ## Contact
 
