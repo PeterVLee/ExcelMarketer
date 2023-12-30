@@ -9,9 +9,30 @@ Inspiration comes from [EVEMarketer](https://evemarketer.com/) by [@aplulu_cat](
 Uses data from [Steve Ronuken's](https://github.com/fuzzysteve) [fuzzwork SDE dump](https://www.fuzzwork.co.uk/dump/)
 
 ## Screenshots
-![image](https://github.com/PeterVLee/ExcelMarketer/assets/28315326/2d5a007f-7c62-4172-aea2-e037fca44587)
+<details>
+<summary>Main market view</summary>
+<br>
+  
+![image](https://github.com/PeterVLee/ExcelMarketer/assets/28315326/965cb770-6efe-4148-9de4-f2a33aa8ac71)
 
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/28315326/278857017-df4b9e1f-f2b6-4c9a-bf01-42458f755942.png)
+</details>
+
+<details>
+<summary>Market history:</summary>
+<br>
+  
+![image](https://github.com/PeterVLee/ExcelMarketer/assets/28315326/b8fb5639-1fe7-49fc-a202-7d11a23b0778)
+
+</details>
+
+<details>
+<summary>Market history:</summary>
+<br>
+Unfinished UI but it works
+
+![image](https://github.com/PeterVLee/ExcelMarketer/assets/28315326/803f7846-4095-4b4e-b3c1-c6a0d6633918)
+
+</details>
 
 As it stands, until the SDE format changes or CCP pulls the plug on the Excel plugin, this spreadsheet should work for a good while as long as you follow the instructions tab on updating the item list.
 
