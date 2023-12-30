@@ -18,7 +18,7 @@ Uses data from [Steve Ronuken's](https://github.com/fuzzysteve) [fuzzwork SDE du
 </details>
 
 <details>
-<summary>Market history:</summary>
+<summary>Market history</summary>
 <br>
   
 ![image](https://github.com/PeterVLee/ExcelMarketer/assets/28315326/b8fb5639-1fe7-49fc-a202-7d11a23b0778)
@@ -26,7 +26,7 @@ Uses data from [Steve Ronuken's](https://github.com/fuzzysteve) [fuzzwork SDE du
 </details>
 
 <details>
-<summary>Market history:</summary>
+<summary>Group item stats</summary>
 <br>
 Unfinished UI but it works
 
@@ -35,6 +35,11 @@ Unfinished UI but it works
 </details>
 
 As it stands, until the SDE format changes or CCP pulls the plug on the Excel plugin, this spreadsheet should work for a good while as long as you follow the instructions tab on updating the item list.
+
+## Future planned features:
+* Import/export calculator between major hubs
+* Asset browser
+* Market orders, history, and historical profits
 
 ## Contact
 
